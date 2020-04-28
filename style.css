@@ -1,0 +1,56 @@
+body {
+  background-color: grey;
+  text-align: center;
+}
+
+
+h1 {
+  font-size: 7rem;
+  color: green;
+  text-align: center;
+  padding-top: 5rem;
+  padding-bottom: 7rem;
+}
+
+
+
+
+
+.col-lg {
+  text-align: center;
+}
+
+
+
+.image-format {
+  width: 9rem;
+  height: 9rem;
+  cursor:pointer;
+}
+
+img:hover{
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.pressed {
+  opacity: 0.6;
+  background-color: purple;
+}
+
+.playerPressed  {
+  opacity: 0.6;
+  background-color: green;
+}
+
+.draw {
+  opacity: 0.6;
+  background-color: black;
+}
+
+
+.pcBanner{
+  position: relative;
+
+}
